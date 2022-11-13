@@ -1,4 +1,4 @@
-from selenium import webdriver
+
 import time, random
 
 links = ["https://amazingmedia.pics.ee/4kh3gm/",
