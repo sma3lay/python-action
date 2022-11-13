@@ -1,9 +1,9 @@
-
+from selenium import webdriver
 import time, random
 
-links = ["https://amazingmedia.pics.ee/4kh3gm/",
-         "https://amazingmedia.pics.ee/4kh3gm/",
-         "https://amazingmedia.pics.ee/4kh3gm/"]
+links = ["http://latepyar.xyz/index.php/2021/12/09/usps-mail-carriers-allegedly-stole-credit-cards-as-part-of-huge-identity-theft-ring/",
+         "http://latepyar.xyz/index.php/2021/12/09/amazon-fined-1-3-billion-for-abusing-market-position-in-italy/",
+         "http://latepyar.xyz/index.php/2021/12/09/hello-world/"]
 count =0;
 while True:
     for link in links:
