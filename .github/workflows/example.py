@@ -1,8 +1,9 @@
 from selenium import webdriver
 import time, random
 
-links = ["http://amazingmedia.psee.ly/4l4hdv",
-         "https://www.youtube.com/watch?v=o2o_xF6NhD0"]
+links = ["https://amazingmedia.pics.ee/4kh3gm/",
+         "https://amazingmedia.pics.ee/4kh3gm/",
+         "https://amazingmedia.pics.ee/4kh3gm/"]
 count =0;
 while True:
     for link in links:
